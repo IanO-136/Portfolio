@@ -1,5 +1,9 @@
 # Pojects:
 
+A website using Python (NumPy, MatPlotLib, and Streamlit) that analyzes and visualizes DNA strands using Computational Biology Algorithms. \
+Can watch video demo in: "" or run locally by following instructions in "README.md" \
+https://github.com/IanO-136/BioSequenceAnalysis.git
+
 A Python project using Pandas. Analyzed and visualized data collaboratively to build a presentation. \
 Open "FinalReport.ipynb" for final presentation or "Pittsburgh-Arrests-IanO'Leary.ipynb" for some of the analysis I exclusively worked on. \
 https://github.com/aidanVantHof/Big-Ideas-Final-Project.git
