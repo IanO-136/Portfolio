@@ -1,7 +1,13 @@
 # Pojects:
+Here are just some of my completed projects I'd like to spotlight!
+
+Hourly Wikipedia attention tracker for the 100 biggest companies, with spike detection. Python, Azure Functions, Bicep. \
+https://github.com/IanO-136/Wiki-Tracker
+
+Some research work I did on common causes for unexpected crashes when transferring data between internal databases. \
+https://github.com/IanO-136/loadcrash
 
 A website using Python (NumPy, MatPlotLib, and Streamlit) that analyzes and visualizes DNA strands using Computational Biology Algorithms. \
-Can watch video demo in: "" or run locally by following instructions in "README.md" \
 https://github.com/IanO-136/BioSequenceAnalysis.git
 
 A Python project using Pandas. Analyzed and visualized data collaboratively to build a presentation. \
@@ -12,7 +18,5 @@ EchoShop (Hackathon Project), a tool for visually impaired people that reads tex
 Website does not function due to protection of out API key. \
 https://github.com/jayp7536/EchoShop.git
 
-Personalized Spaces (Hackathon Winning Project), my presentation for a solution based design competition where we did end user research to aid our design. \
-https://github.com/IanO-136/Designathon2025.git
 
 To see any class based projects or more of my work, contact me at ianoleary05@gmail.com, I'd love to share.
